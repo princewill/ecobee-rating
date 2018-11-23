@@ -41,7 +41,7 @@ where:
 *	`region` is a region in which the customer is scored
 *	`score` a number from 1 to 10 that represents the rating of the building in that region.
 The output should be in the same order as appears in the query section of the input.
-Sample input:
+Sample input:<br/>
 "John Doe" "Canada/Ontario/Toronto" 1.5<br/>
 "Samanta Smith" "Canada/Ontario/London" 3.7<br/>
 "Adam Xin" "Canada/British Columbia/Vancouver" 2.110<br/>
