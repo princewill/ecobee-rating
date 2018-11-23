@@ -48,7 +48,7 @@ Sample input:<br/>
 "Monica Taylor" "Canada/Ontario/Toronto" 2.110<br/>
 "Alicia Yazzie" "US/Arizona/Phoenix" 5.532<br/>
 "Mohammed Zadeh" "Canada/Ontario/Toronto" 1.43<br/>
-<br/>
+
 "John Doe" "Canada"<br/>
 "John Doe" "Canada/Ontario"<br/>
 "Alicia Yazzie" "US/Arizona"<br/>
