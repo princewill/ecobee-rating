@@ -42,16 +42,16 @@ where:
 *	`score` a number from 1 to 10 that represents the rating of the building in that region.
 The output should be in the same order as appears in the query section of the input.
 Sample input:
-"John Doe" "Canada/Ontario/Toronto" 1.5
-"Samanta Smith" "Canada/Ontario/London" 3.7
-"Adam Xin" "Canada/British Columbia/Vancouver" 2.110
-"Monica Taylor" "Canada/Ontario/Toronto" 2.110
-"Alicia Yazzie" "US/Arizona/Phoenix" 5.532
-"Mohammed Zadeh" "Canada/Ontario/Toronto" 1.43
+"John Doe" "Canada/Ontario/Toronto" 1.5<br/>
+"Samanta Smith" "Canada/Ontario/London" 3.7<br/>
+"Adam Xin" "Canada/British Columbia/Vancouver" 2.110<br/>
+"Monica Taylor" "Canada/Ontario/Toronto" 2.110<br/>
+"Alicia Yazzie" "US/Arizona/Phoenix" 5.532<br/>
+"Mohammed Zadeh" "Canada/Ontario/Toronto" 1.43<br/><br/>
 
-"John Doe" "Canada"
-"John Doe" "Canada/Ontario"
-"Alicia Yazzie" "US/Arizona"
+"John Doe" "Canada"<br/>
+"John Doe" "Canada/Ontario"<br/>
+"Alicia Yazzie" "US/Arizona"<br/>
     
 ## How to Test
 - [run `mvn test`]
